@@ -1,0 +1,16 @@
+.navbar .top {
+    display: flex;
+    justify-content: space-between;
+    background-color: #091625;
+    padding: 15px 50px;
+}
+
+.top .leading {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    background-color: #CED0D3;
+    padding: 15px 50px;
+}
